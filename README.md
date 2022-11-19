@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 ### I'm Sanju
-A designer who can code
+Designer who codes.
 
 - ✨ interests: website development, design, playing around in Figma, prototyping and microinteractions
 - 🌐 website: 🖥️ coming soon
