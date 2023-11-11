@@ -3,7 +3,7 @@
 Designer who codes.
 
 - ✨ interests: website development, design, playing around in Figma, prototyping and microinteractions
-- 🌐 website: 🖥️ coming soon
+- 🌐 website: 🖥️ click [here](https://sanju.work/)
 - 🖼️ portfolio: 🖥️ click [here](https://www.behance.net/sanjuwdr)
 
 <!--
